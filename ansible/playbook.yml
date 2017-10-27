@@ -1,0 +1,8 @@
+---
+- name: Setup NYC-DB
+  hosts: nycdb
+  become: yes
+  #become_method: sudo
+
+  roles:
+    - nycdb
