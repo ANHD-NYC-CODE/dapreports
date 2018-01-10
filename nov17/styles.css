@@ -3,29 +3,6 @@ html, body, div, table, th, tbody, thead {
     font-weight:400;
 }
 
-html, body {
-    height: 100%;
-}
-
-#ctwrap {
-    min-height: 100%;
-    position: relative;
-}
-
-#content {
-    padding-bottom: 1rem;
-}
-
-#footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%
-}
-
-/* 
-h1, h2, h3, h4 {
-    font-weight:500;
-} */
 
 table {
     border-spacing: 0;
@@ -39,9 +16,19 @@ th, td {
     font-size: .875rem;
 }
 
+h1 {
+    margin: 0;
+}
+
 .map {
     max-width: 310px !important;
-    padding-bottom: .5rem !important;
+    min-width: 300px !important;
+    padding-bottom: 1rem !important;
+}
+
+.pageintro {
+    min-width: 500px !important;
+    flex: 100%;
 }
 
 .key {
@@ -289,7 +276,7 @@ a.dropdown, a.dropdown:hover {
 }
 
 .intro {
-    padding: 1rem 2rem 1rem 2rem;
+    padding: 1rem 2rem 0rem 2rem;
     font-size: .875rem;
     font-weight: 300;
     line-height: 1.25;
@@ -542,12 +529,6 @@ only screen and (max-width: 718px),
 	td.dobjobs:nth-of-type(8):before { content: "DM"; }
 	td.dobjobs:nth-of-type(9):before { content: "Owner"; }
 	td.dobjobs:nth-of-type(10):before { content: "Links"; }
-
-    /* Hide navbar */
-    
-    /* .navbar {
-        display: none !important;
-    } */
 
 
 }
