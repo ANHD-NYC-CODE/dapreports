@@ -22,12 +22,12 @@ h1 {
 
 .map {
     max-width: 310px !important;
-    min-width: 300px !important;
+    min-width: 260px !important;
     padding-bottom: 1rem !important;
 }
 
 .pageintro {
-    min-width: 500px !important;
+    min-width: 500px;
     flex: 100%;
 }
 
@@ -416,8 +416,25 @@ only screen and (max-width: 600px) {
     .navbar {
         display: none !important;
     }
+
+    .mobilehide {
+        display: none !important;
+    }
 }
 
+@media
+only screen and (max-width: 500px) {
+    .pageintro {
+        min-width: 280px;
+    }
+}
+
+@media
+only screen and (min-width: 1000px) {
+    .pageintro {
+        min-width: 700px;
+    }
+}
 
 @media 
 only screen and (max-width: 718px),
