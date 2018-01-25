@@ -12,7 +12,6 @@ table {
 
 th, td {
     padding: 1px 4px 1px 4px;
-    /* hyphens: auto; */
     font-size: .875rem;
 }
 
@@ -202,7 +201,6 @@ a.dropdown, a.dropdown:hover {
     font-size: 14px;
     font-weight: 300;
     font-family: helvetica-w01-light,helvetica-w02-light,sans-serif;
-    /* margin: 0 17px; */
     text-decoration: none;
     color: #969696;
     transition: color 0.4s ease 0s;
@@ -226,6 +224,14 @@ a.dropdown, a.dropdown:hover {
     transition: color 0.4s ease 0s;
     background-color: transparent;  
 }
+
+/* Make dropdown scrollable */
+
+ul{
+    max-height:150px; 
+    overflow-x:hidden; 
+    overflow-y:auto; 
+ }
 
 /* Colors and font weights */
 
@@ -332,14 +338,10 @@ a.dropdown, a.dropdown:hover {
         text-decoration: none;
         font-weight: 400;
     }
-    
-    .map {
-        width: 200px !important;
-    }
 
-    .pageintro {
-        width: 500px !important;
-        /* font-size: .875rem !important; */
+    .printintro {
+        max-width: 500px !important;
+        min-width: 300px !important;
     }
 
     .accordion {
@@ -354,11 +356,7 @@ a.dropdown, a.dropdown:hover {
     }
 
     .title {
-        /* width: 400px !important; */
         font-size: 1.5rem !important;
-        /* padding-bottom: .25rem !important; */
-        /* margin-top: -45px !important;
-        margin-left: 200px !important; */
     }
 
     .nhoods {
