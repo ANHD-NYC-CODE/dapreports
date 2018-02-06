@@ -227,7 +227,7 @@ a.dropdown, a.dropdown:hover {
 
 /* Make dropdown scrollable */
 
-ul{
+ul.drop {
     max-height:150px; 
     overflow-x:hidden; 
     overflow-y:auto; 
