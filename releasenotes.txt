@@ -10,3 +10,4 @@ v1.3.4: 1-25-17 Added WOW back with new boards.json files, edited intro text to 
 v1.3.5: 2-6-17  Fixed nav bar bug and added Jan 18 as well as Jan-June 17.
     boardsjan18-1.json; boardsjan17-1.json; boardsfeb17-1.json; boardsmar17-1.json; boardsapr17-1.json; boardsmay17-1.json; boardsjun17-1.json 
 v1.3.5.1: 2-6-17 Fixed ppgsf variable and bottom Back button link
+v1.3.5.2: 2-7-17 Fixed printing format
