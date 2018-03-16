@@ -13,5 +13,7 @@ v1.3.5.1: 2-6-18 Fixed ppgsf variable and bottom Back button link
 v1.3.5.2: 2-7-18 Fixed printing format
 v1.3.6 2-23-18 Added Jan 18 sales for a complete Jan 18
     boardsjan18-2.json 
-v1.3.7 3-5-18 Added Feb 18
+v1.3.7 3-5-18 Added Feb 18 
     boardsfeb18-1.json 
+v1.3.7.2 3-16-18 Added Feb 18 sales. v1.3.7 was missing any sales. Now fixed.
+    boardsfeb18-2.json
