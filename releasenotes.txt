@@ -23,3 +23,5 @@ v1.3.8.2 4-19-18 Fixed formatting issue for $ sales in march and rebuilt march18
     boardsmar18-1.2.json 
 v1.4.0 4-24-18 Added March 18 sales, has zip code but haven’t added zip codes in previous months yet. Working on expand all feature.
     boardsmar18-2.json 
+v1.5.0 5-4-18 Added April 18. Added zip codes to all months and added expand/collapse all buttons. Re-built all past months to add zip codes and reformat money fields on sales. Boards files built backwards don’t have ‘-‘ suffixes but new ones do, for pre-sales updates and post-sales updates.
+    boardsapr18-1.json, boardsfeb18.json back to boardsjan17.json
