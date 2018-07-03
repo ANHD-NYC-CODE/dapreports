@@ -612,14 +612,14 @@ only screen and (max-width: 718px),
 /* Google custom search */
 
 
-/* div.gsc-control-cse {
+div.gsc-control-cse {
     padding: 5px 5px 5px 5px !important;
     border: 0 !important;
 }
 
 form.gsc-search-box {
     margin: 0px !important;
-} */
+}
 
 /* Not needed?
  table.gsc-search-box {
