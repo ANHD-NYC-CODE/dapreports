@@ -213,7 +213,7 @@ span.togmid {
 .dropbtn {    
     border: none;
     cursor: pointer;
-    height: 40px;
+    height: 37px;
     background-color: black;
     padding: 0;
     text-align: left;
@@ -651,3 +651,13 @@ div.gsc-above-wrapper-area {
     height: 50% !important;
     box-shadow: none !important;
 } */
+
+/* Google Translate */
+
+#google_translate_element a:hover {
+    background-color: white;
+}
+
+.goog-te-gadget-simple {
+    margin: .5rem 0 0 1rem !important;
+}
