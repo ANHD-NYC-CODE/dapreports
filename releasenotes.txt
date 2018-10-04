@@ -43,3 +43,6 @@ v1.6.0.1 8-28-18 Fixed typo in footer for July 2018 pages
 v1.7.0 9-4-18 Added August 18 data. Used sam raby's code to update dropdowns for previous months’ reports instead of rebuilding all pages from scratch. Have not updated all boards files backwards because unnecessary for updating dropdowns now. Changed path to styles.css and tachyons.css 
     boardsaug18-1.json 
 v1.7.0.1 9-5-18 Fixed dropdowns for july 2018 reports to include august
+v1.8.0 9-20-18 Changed nav bar for DAP website changes, changed CNAME for URL change
+v1.8.1 10-4-18 Added September 18 data and August 18 sales, updated August w August sales
+    boardssep18-1.json, boardsaug18-2.json
