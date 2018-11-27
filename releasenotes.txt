@@ -52,3 +52,5 @@ v1.8.3.0 11-7-18 Added some Oct 18 data but some is missing from DOB, needs addt
     boardsoct18-1.json 
 v1.8.3.1 11-14-18 Added full month of October 18, last update had a bug missing sep 18 month
     boardsoct18-2.json 
+v1.8.4 11-27-18 Added Oct 18 sales
+    boardsoct18-3.json
