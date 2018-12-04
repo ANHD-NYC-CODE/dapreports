@@ -54,3 +54,5 @@ v1.8.3.1 11-14-18 Added full month of October 18, last update had a bug missing 
     boardsoct18-2.json 
 v1.8.4 11-27-18 Added Oct 18 sales
     boardsoct18-3.json
+v1.8.5 12-4-18 Added Nov 18 data with 2017 rent stab numbers!
+    boardsnov18-1.json 
