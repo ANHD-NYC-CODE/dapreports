@@ -73,3 +73,5 @@ v1.9.2 5-6-19 Added Apr 19 data and Mar 19 sales
     boardsmar19-2.json boardsapr19-1.json 
 v1.9.3 5-17-19 Added Apr 19 sales
     boardsapr19-2.json, accidentally overwrote mar19-2 then renamed
+v1.9.4 6-5-19 Added May 19 data
+    boardsmay19-1.json 
