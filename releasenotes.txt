@@ -77,3 +77,5 @@ v1.9.4 6-5-19 Added May 19 data
     boardsmay19-1.json 
 v1.9.5 7-8-19 Added May 19 sales and June 19 data, addresses now go to DAP Portal and update on index page, fixed nav bars for consistency, changed reference to Taxes
     boardsmay19-2.json boardsjun19-1.json 
+v1.9.6 7-26-19 Added June 19 sales
+    boardsjun19-2.json
