@@ -86,3 +86,4 @@ v1.10.0 11-19-19 October reports with September sales
 v1.10.1 October w October
 v1.10.2 November data
 v1.10.3 1-8-20 December reports w October sales. November sales still not available!! boardsdec19-1.json 
+v1.10.4 2-7-20 November with November sales, December with December sales, Jan with Dec sales and Dec HPD complaints boardsnov19-2.json boardsdec19-2.json boardsjan20-1.json
