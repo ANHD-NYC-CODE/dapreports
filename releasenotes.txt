@@ -90,3 +90,4 @@ v1.10.4 2-7-20 November with November sales, December with December sales, Jan w
 v1.10.5 3-6-20 Jan with Jan sales and Jan HPD complaints, Feb with Feb HPD complaints and jan sales
 v1.10.6 4-15-20 Migrated production to laptop. Updated SQL with 2018 rent stab numbers. Previous reports' month dropdown were all kinds of screwed up. Now should be fixed. Feb with Feb sales and March with Feb sales.
 v1.10.7 5-6-20 Fixed dob complaint sql
+v1.10.8.1 6-5-20 May data with April sales, found month dropdown issue. unresolved
