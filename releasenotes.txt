@@ -93,3 +93,4 @@ v1.10.7 5-6-20 Fixed dob complaint sql
 v1.10.8.1 6-5-20 May data with April sales, found month dropdown issue. unresolved
 v1.10.8.2 kept trying to resolve
 v1.10.9.1 7-13-20 June data April sales, dropdown still not resolved
+v1.10.10 8-6-20 HPD complaints not updated yet but fixing dropdown issues and adding full June reports. Brought previous months back from v1.10.5. Am missing Aug 2019 reports.
