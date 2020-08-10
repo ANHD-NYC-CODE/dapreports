@@ -95,3 +95,4 @@ v1.10.8.2 kept trying to resolve
 v1.10.9.1 7-13-20 June data April sales, dropdown still not resolved
 v1.10.10 8-6-20 HPD complaints not updated yet but fixing dropdown issues and adding full June reports. Brought previous months back from v1.10.5. Am missing Aug 2019 reports.
 v1.10.10.1 8-6-20 Added August 2019
+v1.10.11 8-10-20 Added July 2020 reports
